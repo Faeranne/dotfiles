@@ -1,0 +1,9 @@
+[".vim/bundle/Vundle.vim"]
+    type = "git-repo"
+    url = "https://github.com/VundleVim/Vundle.vim.git"
+    refreshPeriod = "168h"
+[".antigen"]
+    type = "git-repo"
+    url = "https://github.com/zsh-users/antigen.git"
+    refreshPeriod = "168h"
+
