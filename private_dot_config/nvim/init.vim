@@ -19,7 +19,9 @@ Plugin 'segeljakt/vim-silicon'
 Plugin 'wannesm/wmgraphviz.vim'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'Quramy/tsuquyomi'
-Plugin 'Exafunction/codeium.vim'
+Plugin 'Shougo/vimproc.vim'
+"Plugin 'Exafunction/codeium.vim'
+Plugin 'sakhnik/nvim-gdb', {'do': ':!./install.sh'}
 call vundle#end()
 filetype plugin indent on
 syntax on
